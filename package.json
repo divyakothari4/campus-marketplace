@@ -1,0 +1,1 @@
+{\n  "name": "campus-marketplace",\n  "version": "1.0.0",\n  "description": "A Campus Marketplace built with MERN stack",\n  "main": "index.js",\n  "scripts": {\n    "start": "node backend/server.js",\n    "client": "npm start --prefix frontend",\n    "dev": "nodemon backend/server.js"\n  },\n  "author": "divyakothari4",\n  "license": "MIT"\n}
