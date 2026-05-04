@@ -1,0 +1,31 @@
+.retro {
+    font-family: 'Arial', sans-serif;
+    font-weight: bold;
+    background-color: black;
+    color: hotpink;
+}
+
+.retro-header {
+    font-size: 2em;
+    color: cyan;
+}
+
+.retro-button {
+    background-color: limegreen;
+    border: 2px dashed orangered;
+    color: white;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.pixel-border {
+    border: 5px solid limegreen;
+    border-radius: 0;
+    box-shadow: 0 0 10px cyan;
+    padding: 10px;
+}
+
+.pixel-text {
+    font-size: 32px;
+    text-shadow: 1px 1px 0 hotpink, 2px 2px 0 cyan;
+}
